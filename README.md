@@ -146,3 +146,14 @@ there is no copy constructor in java but we can do it using
 
 <h1>Enum</h1>
 
+![image](https://github.com/user-attachments/assets/3f808234-4e86-44ae-91e0-8ad3f0023638)
+
+![image](https://github.com/user-attachments/assets/c254ecae-85d2-482a-b41e-d71a80ec703d)
+
+![image](https://github.com/user-attachments/assets/1cb0b50e-27c9-4bfb-a6f7-288f4705af07)
+
+enum with switch case
+
+![image](https://github.com/user-attachments/assets/3ff3513e-ec5f-4423-8716-1d2461ef72f6)
+
+![image](https://github.com/user-attachments/assets/cb97d314-dece-4ea5-9905-db2038142e4e)
