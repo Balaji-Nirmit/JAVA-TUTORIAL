@@ -108,3 +108,17 @@ Java tutorial
 
 ![image](https://github.com/user-attachments/assets/d47384e8-556c-47e2-a0be-c9cbbb6efeba)
 
+<h2>Copy constructor</h2>
+there is no copy constructor in java but we can do it using 
+<ul>
+ <li>By constructor</li>
+<li>By assigning the values of one object into another</li>
+<li>By clone() method of Object class</li>
+</ul>
+
+![image](https://github.com/user-attachments/assets/2da620eb-1ad4-4c75-a5d8-ad6ce5ec794f)
+
+![image](https://github.com/user-attachments/assets/0ee19b7a-ae32-4c2d-9f12-019621989252)
+
+![image](https://github.com/user-attachments/assets/b8d56695-ca24-4974-a221-465568c8db97)
+
