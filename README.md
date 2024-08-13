@@ -122,3 +122,27 @@ there is no copy constructor in java but we can do it using
 
 ![image](https://github.com/user-attachments/assets/b8d56695-ca24-4974-a221-465568c8db97)
 
+![image](https://github.com/user-attachments/assets/d5fa6034-9a8b-4f41-b07c-10ec42f7bce0)
+
+<h2>Final Keyword</h2>
+
+![image](https://github.com/user-attachments/assets/4083fdfc-b0b9-45c8-8aa9-028676b21ba0)
+
+![image](https://github.com/user-attachments/assets/955df6ba-169c-4a36-8225-659dc4e87075)
+
+![image](https://github.com/user-attachments/assets/d69b8286-24e0-4a05-8df0-626a4885658e)
+
+![image](https://github.com/user-attachments/assets/c8a330a2-6731-4d29-8ed7-266ed21f96fc)
+
+![image](https://github.com/user-attachments/assets/3270b540-5a3a-4456-939b-3aa9134d0e00)
+
+<h2>Instance operator</h2>
+
+![image](https://github.com/user-attachments/assets/c398f3a7-1712-4029-ac5c-a88bbe59a71a)
+
+![image](https://github.com/user-attachments/assets/21fdbef1-4827-4f41-89c1-d59d73002214)
+
+![image](https://github.com/user-attachments/assets/4a30e3ec-022e-4600-bc2f-369f86402bcb)
+
+<h1>Enum</h1>
+
