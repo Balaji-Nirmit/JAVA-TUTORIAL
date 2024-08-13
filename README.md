@@ -65,3 +65,46 @@ Java tutorial
 
 ![image](https://github.com/user-attachments/assets/ed7baffd-dbbf-4129-b363-9289cc0b0d1b)
 
+
+<h1>Classes</h1>
+
+![image](https://github.com/user-attachments/assets/75838fad-1c8a-4a30-a260-8b983dd2d7c5)
+
+![image](https://github.com/user-attachments/assets/fa2f2b6d-28b9-4da1-8549-eb17b6e96a9c)
+
+![image](https://github.com/user-attachments/assets/96281f37-1417-486b-b069-4168491fe2ac)
+
+![image](https://github.com/user-attachments/assets/bf703b5f-1e79-44c4-8312-ea31b427a90e)
+
+<h2>Ways to initialize an object</h2>
+
+![image](https://github.com/user-attachments/assets/9a6e9fa0-c7c1-45a8-ba56-5724018dc76c)
+
+![image](https://github.com/user-attachments/assets/c12c84d1-3a61-4e68-8a02-f0aebdfdab43)
+
+ # "this" keyword
+ it is used to differentiate between instance variable and parameter when both parameter and instance variable have same name
+ so if not used it will not throw error rather it will refer to the instance variable
+
+ ![image](https://github.com/user-attachments/assets/c02f2dc0-a78b-401b-9f2d-22da7a220d3a)
+
+![image](https://github.com/user-attachments/assets/5b769284-f011-4f1f-9d07-e765932d1113)
+
+![image](https://github.com/user-attachments/assets/c4c7c9a5-e822-418c-8036-1d3dd220a861)
+
+![image](https://github.com/user-attachments/assets/4262677b-8f82-4152-bc21-3621f3fd701c)
+
+![image](https://github.com/user-attachments/assets/e8ee50a3-dcbb-40ec-8081-aafed7d69c29)
+
+<h2>Static method</h2>
+
+![image](https://github.com/user-attachments/assets/b7a1eb86-ecaa-43da-869e-9b372fe21771)
+
+
+
+![image](https://github.com/user-attachments/assets/2048c568-e830-4619-ad28-71a32b11bf5b)
+
+![image](https://github.com/user-attachments/assets/af10774f-1717-4254-973f-fd307c24edb3)
+
+![image](https://github.com/user-attachments/assets/d47384e8-556c-47e2-a0be-c9cbbb6efeba)
+
