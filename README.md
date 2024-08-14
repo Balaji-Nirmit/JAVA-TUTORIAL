@@ -157,3 +157,47 @@ enum with switch case
 ![image](https://github.com/user-attachments/assets/3ff3513e-ec5f-4423-8716-1d2461ef72f6)
 
 ![image](https://github.com/user-attachments/assets/cb97d314-dece-4ea5-9905-db2038142e4e)
+
+<h1>Inheritence</h1>
+
+![image](https://github.com/user-attachments/assets/e236f836-8e5c-4aef-a10d-0dd9e456786c)
+
+![image](https://github.com/user-attachments/assets/7fc17e3d-fa84-46ea-9402-29e948067d71)
+
+![image](https://github.com/user-attachments/assets/768573af-c592-4525-9c28-09a390a9a02d)
+
+![image](https://github.com/user-attachments/assets/f943489d-ebcd-461e-abfa-45f3127b10e3)
+
+![image](https://github.com/user-attachments/assets/764dbe19-29ac-4848-97df-fb10dbdefd15)
+
+![image](https://github.com/user-attachments/assets/05af597c-5b9e-4bb9-85ed-4a15ce77991b)
+
+![image](https://github.com/user-attachments/assets/386d8cf2-3d87-414e-b6c2-6b5c4cdb2f2c)
+
+![image](https://github.com/user-attachments/assets/286323de-2b4c-4e1c-9a4a-e9dc9c503076)
+
+![image](https://github.com/user-attachments/assets/c586934b-735b-4344-a37a-97c47f567518)
+
+![image](https://github.com/user-attachments/assets/d3328559-6706-40aa-a982-e322dd5326bd)
+
+![image](https://github.com/user-attachments/assets/b592ee2e-d444-45b7-9032-11d534427267)
+
+![image](https://github.com/user-attachments/assets/5e2c4042-19dd-4326-ab10-e0e76852ae23)
+
+super for method calling
+
+![image](https://github.com/user-attachments/assets/c2773990-aef8-42ea-b87d-db59f26286e3)
+
+![image](https://github.com/user-attachments/assets/6b26654f-0da8-4de2-bfd0-92ab341b9dac)
+
+In these examples method overridding is also done with sound() method
+
+![image](https://github.com/user-attachments/assets/9fd4de63-3ef1-47ae-b735-cdd3eeb551b3)
+
+<h1>Polymorphism</h1>
+
+![image](https://github.com/user-attachments/assets/fd18d678-338f-49b3-9256-0943ef0d2452)
+
+![image](https://github.com/user-attachments/assets/44834432-7cd1-44f2-812c-12be14550e6e)
+
+<h1>Types of classes</h1>
