@@ -201,3 +201,46 @@ In these examples method overridding is also done with sound() method
 ![image](https://github.com/user-attachments/assets/44834432-7cd1-44f2-812c-12be14550e6e)
 
 <h1>Types of classes</h1>
+
+![image](https://github.com/user-attachments/assets/5642f17c-097b-4518-8cd7-8cc790052e97)
+
+<h2>inner or nested classes</h2>
+
+![image](https://github.com/user-attachments/assets/cb878aa5-4d1a-493a-90cc-2ef437960102)
+
+![image](https://github.com/user-attachments/assets/cd216d55-0777-4a85-9bde-1faac47cf233)
+
+![image](https://github.com/user-attachments/assets/79c81cfa-7e74-42e2-8a81-a2e30c0ea50d)
+
+![image](https://github.com/user-attachments/assets/31511bea-6ab1-4179-9ee6-a64a51424fbf)
+
+![image](https://github.com/user-attachments/assets/41bbbc51-6b1a-4768-a036-99c12f493f90)
+
+![image](https://github.com/user-attachments/assets/eedb10ac-1d9d-44c4-97b2-49cfd6af47ca)
+
+![image](https://github.com/user-attachments/assets/5d6ae1eb-7404-40b8-b9a1-8fde47e9ad51)
+
+![image](https://github.com/user-attachments/assets/65e756b1-6e92-4573-b7dd-1d34c23704a3)
+
+![image](https://github.com/user-attachments/assets/71daa63b-e5f1-4fda-846b-683fbbccfd0b)
+
+![image](https://github.com/user-attachments/assets/00fcfb00-f68c-4e48-b763-a57ea64e3bfe)
+
+![image](https://github.com/user-attachments/assets/5bd71055-f9a1-4d2b-9133-06ded3cf7b3f)
+
+![image](https://github.com/user-attachments/assets/11bfc522-93e4-4d2b-919c-d6282c269eb7)
+
+![image](https://github.com/user-attachments/assets/8313e4ca-e5dd-4233-88fd-4bfa224411cc)
+
+![image](https://github.com/user-attachments/assets/93168d99-9b1c-4134-924e-e0d74c0aadbe)
+
+![image](https://github.com/user-attachments/assets/c42fe852-015b-493b-a231-825c82f0245a)
+
+![image](https://github.com/user-attachments/assets/0c57a398-f7ea-4ed1-876b-d601228429ec)
+
+![image](https://github.com/user-attachments/assets/3bfbd072-b9e0-4b9a-8a28-2cfb51a2feab)
+
+![image](https://github.com/user-attachments/assets/0c7f4310-a383-4a04-ae5b-65bb9243915a)
+
+<h1>java reflection</h1>
+
