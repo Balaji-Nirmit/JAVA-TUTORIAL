@@ -329,3 +329,7 @@ it is same as python __str__ method
 ![image](https://github.com/user-attachments/assets/d53967f9-a77d-4c8b-a0ce-b3ab886426fe)
 
 ![image](https://github.com/user-attachments/assets/e2d6536d-fc06-483b-944d-cd06e991af1b)
+
+![image](https://github.com/user-attachments/assets/22b38cd0-7887-42fe-ad13-454a83b9eda3)
+
+![image](https://github.com/user-attachments/assets/eeca2bc9-8b4d-4a66-9562-2c97146fae6d)
