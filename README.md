@@ -311,4 +311,21 @@ In these examples method overridding is also done with sound() method
 
 ![image](https://github.com/user-attachments/assets/263c0f6a-885c-4c53-b83b-5a701cffd134)
 
+![image](https://github.com/user-attachments/assets/a1a44503-f32c-4478-a638-a8148b345672)
 
+![image](https://github.com/user-attachments/assets/8f6f4e39-ec00-45d0-8935-7ce248e50db5)
+
+![image](https://github.com/user-attachments/assets/f670629d-480a-444c-b061-b45ba98e30af)
+
+![image](https://github.com/user-attachments/assets/e3f5babf-13e9-4e48-88f3-291a40d5842c)
+
+![image](https://github.com/user-attachments/assets/6a8b7ce7-2452-4c82-ad27-5c4bf32a0976)
+
+<h3>toString method in OOPs</h3>
+it is same as python __str__ method
+
+![image](https://github.com/user-attachments/assets/7cbdd496-5236-420f-99d1-e70e93ee1a23)
+
+![image](https://github.com/user-attachments/assets/d53967f9-a77d-4c8b-a0ce-b3ab886426fe)
+
+![image](https://github.com/user-attachments/assets/e2d6536d-fc06-483b-944d-cd06e991af1b)
