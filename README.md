@@ -284,3 +284,17 @@ In these examples method overridding is also done with sound() method
 ![image](https://github.com/user-attachments/assets/11ff9cc2-d413-4863-b87b-b3d7a78475a5)
 
 ![image](https://github.com/user-attachments/assets/2f048919-9dfc-494c-aa33-922b9e290db8)
+
+
+<h1>String Methods</h1>
+
+![image](https://github.com/user-attachments/assets/4eabaaca-ad1d-4a1b-9b8a-cf54d00a8352)
+
+![image](https://github.com/user-attachments/assets/b148f2e1-edfd-4a98-b1d9-61a37640e2e7)
+
+![image](https://github.com/user-attachments/assets/68746b07-ff15-49b2-8686-cb9e321829be)
+
+![image](https://github.com/user-attachments/assets/1110e79f-eef4-4370-bcae-1bd6d82661dd)
+
+![image](https://github.com/user-attachments/assets/d25b3e82-edc2-424e-9bb6-a2415db81e45)
+
