@@ -367,3 +367,10 @@ it is same as python __str__ method
 ![image](https://github.com/user-attachments/assets/22b5de15-fc21-4dcc-9a96-bd7b19bff9bb)
 
 ![image](https://github.com/user-attachments/assets/e06e40f7-dabc-48eb-ba82-0139544ee054)
+
+<h1>collection frameworks</h1>
+
+![image](https://github.com/user-attachments/assets/618c5412-6512-4060-8d26-099023fa491e)
+
+![image](https://github.com/user-attachments/assets/deb44317-b28d-4cb9-a53e-4a065a515a93)
+
