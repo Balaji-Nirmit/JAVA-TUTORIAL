@@ -338,3 +338,17 @@ it is same as python __str__ method
 ![image](https://github.com/user-attachments/assets/22b38cd0-7887-42fe-ad13-454a83b9eda3)
 
 ![image](https://github.com/user-attachments/assets/eeca2bc9-8b4d-4a66-9562-2c97146fae6d)
+
+
+<h1>command line arguments</h1>
+
+![image](https://github.com/user-attachments/assets/64605624-4c05-4d0e-a08a-2ed983cb5df4)
+
+<h1>Arrays</h1>
+
+![image](https://github.com/user-attachments/assets/524fee53-e420-4c4f-83f4-dd8b1c26b45f)
+
+![image](https://github.com/user-attachments/assets/1c466b3c-6d0f-43f4-8564-fa91deecf6a8)
+
+![image](https://github.com/user-attachments/assets/efbc02a9-0284-4e61-bb8e-f0d9712b7b41)
+
