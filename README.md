@@ -352,3 +352,18 @@ it is same as python __str__ method
 
 ![image](https://github.com/user-attachments/assets/efbc02a9-0284-4e61-bb8e-f0d9712b7b41)
 
+<h3>Array declaration, instantiation and array with methods</h3>
+
+![image](https://github.com/user-attachments/assets/3eb740b1-b96a-431a-abf5-ceba8369f379)
+
+<h3>Jagged Array</h3>
+
+![image](https://github.com/user-attachments/assets/83fe331f-ed45-430b-b5e9-9b23827ab0d3)
+
+<h3>copying arrays</h3>
+
+![image](https://github.com/user-attachments/assets/9efaf19f-947d-44c7-a127-24231c54c0e8)
+
+![image](https://github.com/user-attachments/assets/22b5de15-fc21-4dcc-9a96-bd7b19bff9bb)
+
+![image](https://github.com/user-attachments/assets/e06e40f7-dabc-48eb-ba82-0139544ee054)
