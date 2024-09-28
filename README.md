@@ -374,3 +374,23 @@ it is same as python __str__ method
 
 ![image](https://github.com/user-attachments/assets/deb44317-b28d-4cb9-a53e-4a065a515a93)
 
+
+<h1>List</h1>
+
+![image](https://github.com/user-attachments/assets/efaf2400-52d7-415f-9b47-3b781967f3a3)
+
+![image](https://github.com/user-attachments/assets/78340248-c16f-498c-a40e-ac22f175144a)
+
+<h1>Array list</h1>
+
+![image](https://github.com/user-attachments/assets/74f82eb0-9de6-48b7-8256-c7f838b176fc)
+
+![image](https://github.com/user-attachments/assets/69e361f9-55c4-4369-b081-66dba860d267)
+
+![image](https://github.com/user-attachments/assets/6a7fe749-06db-4064-801a-2951c8cb62a5)
+
+![image](https://github.com/user-attachments/assets/56bb1deb-5278-4b8e-acc5-9862fb904e76)
+
+![image](https://github.com/user-attachments/assets/2437bc84-8e75-4044-aa86-ca5a69f267e6)
+
+![image](https://github.com/user-attachments/assets/2e06d2e1-b184-4e84-858f-8486d28cd77b)
