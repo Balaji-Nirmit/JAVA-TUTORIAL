@@ -396,3 +396,26 @@ it is same as python __str__ method
 ![image](https://github.com/user-attachments/assets/2e06d2e1-b184-4e84-858f-8486d28cd77b)
 
 ![image](https://github.com/user-attachments/assets/5b88648e-ba74-4cd1-95b9-18f1067c7dc9)
+
+
+<h1>Vectors</h1>
+
+![image](https://github.com/user-attachments/assets/6572402a-514a-4861-8ead-6b82b0f564fd)
+
+it is different from arrayList as-
+
+![image](https://github.com/user-attachments/assets/b0d5a00e-0c23-4ef5-800b-4586b2bf62b5)
+
+![image](https://github.com/user-attachments/assets/6b78ea7d-fb04-47f9-a3c1-5718b75381e6)
+
+![image](https://github.com/user-attachments/assets/dbd3d60e-09de-45b1-814b-59daf7be8ab4)
+
+![image](https://github.com/user-attachments/assets/cf7d2656-b961-4ed9-99a2-001296de5eff)
+
+![image](https://github.com/user-attachments/assets/57624a1d-b4ad-4381-b865-615ee0e86f2c)
+
+![image](https://github.com/user-attachments/assets/40ddf11a-4d20-4e3c-af1e-e9863c94f1ce)
+
+![image](https://github.com/user-attachments/assets/897cfdde-1af2-4866-a9f9-7758d21afa63)
+
+* marked are legacy methods
