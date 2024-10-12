@@ -394,3 +394,5 @@ it is same as python __str__ method
 ![image](https://github.com/user-attachments/assets/2437bc84-8e75-4044-aa86-ca5a69f267e6)
 
 ![image](https://github.com/user-attachments/assets/2e06d2e1-b184-4e84-858f-8486d28cd77b)
+
+![image](https://github.com/user-attachments/assets/5b88648e-ba74-4cd1-95b9-18f1067c7dc9)
