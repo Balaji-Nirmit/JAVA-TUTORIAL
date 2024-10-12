@@ -427,3 +427,26 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/fdd894e4-1eb1-4eec-9a38-cf23d25f4b03)
 
 ![image](https://github.com/user-attachments/assets/0801000a-3739-4d49-8977-3dac4a652fc3)
+
+
+<h1>Stack</h1>
+
+![image](https://github.com/user-attachments/assets/5ea6e564-f9e0-4be3-9eb1-d9172b616f79)
+
+![image](https://github.com/user-attachments/assets/1392b087-4713-4833-bfc5-9daf0810eb63)
+
+![image](https://github.com/user-attachments/assets/ecf4a278-0360-4871-be4a-1c6c151ec624)
+
+![image](https://github.com/user-attachments/assets/cb5bc23c-0993-42fa-af51-277232696ae5)
+
+![image](https://github.com/user-attachments/assets/63f48f02-425f-48cf-981f-d48ae2013e35)
+
+![image](https://github.com/user-attachments/assets/0530bf3f-2cba-4b84-ae35-d5f3089cbeb8)
+
+![image](https://github.com/user-attachments/assets/66560b30-d050-41c3-8b13-27a756638915)
+
+![image](https://github.com/user-attachments/assets/6f562827-97ed-42f3-ab89-36a8fb900893)
+
+![image](https://github.com/user-attachments/assets/0a94fbbf-44cb-48c9-86d2-05d49c832527)
+
+![image](https://github.com/user-attachments/assets/e01a3d3c-442d-4953-afaa-8b18488be5a4)
