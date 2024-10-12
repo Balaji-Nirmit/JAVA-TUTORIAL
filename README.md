@@ -419,3 +419,11 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/897cfdde-1af2-4866-a9f9-7758d21afa63)
 
 * marked are legacy methods
+
+![image](https://github.com/user-attachments/assets/31320d0c-1c24-48be-ad51-a0ae648e4729)
+
+![image](https://github.com/user-attachments/assets/68946fbb-e40b-49c4-b64a-c34972a71925)
+
+![image](https://github.com/user-attachments/assets/fdd894e4-1eb1-4eec-9a38-cf23d25f4b03)
+
+![image](https://github.com/user-attachments/assets/0801000a-3739-4d49-8977-3dac4a652fc3)
