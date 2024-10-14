@@ -456,3 +456,9 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/fa0b48b5-c115-4557-8e16-8d4da4badc3c)
 
 ![image](https://github.com/user-attachments/assets/7c5c5066-b813-4e61-a043-65f304539740)
+
+![image](https://github.com/user-attachments/assets/aa8cb348-a1ad-437b-870b-cfaf5fd07662)
+
+![image](https://github.com/user-attachments/assets/15168a7f-30ef-4c8e-887e-1055f8f21425)
+
+![image](https://github.com/user-attachments/assets/abe98974-a25a-45d1-aba0-b2faab3688bb)
