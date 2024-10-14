@@ -450,3 +450,9 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/0a94fbbf-44cb-48c9-86d2-05d49c832527)
 
 ![image](https://github.com/user-attachments/assets/e01a3d3c-442d-4953-afaa-8b18488be5a4)
+
+<h1>Linked List</h1>
+
+![image](https://github.com/user-attachments/assets/fa0b48b5-c115-4557-8e16-8d4da4badc3c)
+
+![image](https://github.com/user-attachments/assets/7c5c5066-b813-4e61-a043-65f304539740)
