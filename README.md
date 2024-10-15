@@ -462,3 +462,26 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/15168a7f-30ef-4c8e-887e-1055f8f21425)
 
 ![image](https://github.com/user-attachments/assets/abe98974-a25a-45d1-aba0-b2faab3688bb)
+
+<h1>Iterators</h1>
+
+![image](https://github.com/user-attachments/assets/569dd084-ce15-485c-933f-db21d2f48c84)
+
+<h2>Advantages of Java Iterator</h2>
+
+![image](https://github.com/user-attachments/assets/f953b34a-809f-4438-b3c2-9c5804295a6f)
+
+<h2>Disadvantages of Java Iterator</h2>
+
+![image](https://github.com/user-attachments/assets/98e9c006-ace2-432b-99f0-033bf2789e8c)
+
+![image](https://github.com/user-attachments/assets/3448372b-4952-4d05-a285-ecc4eb02f105)
+
+![image](https://github.com/user-attachments/assets/6e07fc35-0fd3-4a21-87ef-445089de665a)
+
+![image](https://github.com/user-attachments/assets/fdd110de-7496-47d9-a277-484fa24252a0)
+
+![image](https://github.com/user-attachments/assets/b9052755-5cf6-44d0-8eb0-e61cd6b5cb4d)
+
+![image](https://github.com/user-attachments/assets/d4468f78-4324-4505-8425-f85acc770458)
+
