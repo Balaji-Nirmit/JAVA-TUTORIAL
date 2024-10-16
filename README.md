@@ -489,3 +489,4 @@ it is different from arrayList as-
 
 ![image](https://github.com/user-attachments/assets/43a82e49-b1d4-4138-a470-5297e95ec764)
 
+![image](https://github.com/user-attachments/assets/8c386048-febb-4f4e-a81e-b7ca7c308128)
