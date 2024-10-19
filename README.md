@@ -515,3 +515,10 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/58f39a57-2e83-45c0-9c59-a51d6432edc9)
 
 here throws is always neededto catch the custom exceptions
+
+<h1>@override</h1>
+
+![image](https://github.com/user-attachments/assets/66ab7ff1-b17a-4329-a89e-d7e24ffeddea)
+
+![image](https://github.com/user-attachments/assets/ddc0d715-5585-44e8-b258-60f03868e1b7)
+
