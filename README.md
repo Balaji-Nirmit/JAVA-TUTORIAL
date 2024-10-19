@@ -491,6 +491,7 @@ it is different from arrayList as-
 
 ![image](https://github.com/user-attachments/assets/8c386048-febb-4f4e-a81e-b7ca7c308128)
 
+<h1>HashMaps</h1>
 
 <h1>Java errors and exception handling</h1>
 
@@ -547,3 +548,7 @@ here throws is always neededto catch the custom exceptions
 ![image](https://github.com/user-attachments/assets/85193e42-8edf-4b2a-b838-6fe988670bcd)
 
 ![image](https://github.com/user-attachments/assets/72e2468c-3783-495e-a8d6-51cf877af136)
+
+<h1>Input/Output Serialization and Object Serialization</h1>
+<h1>Java Beans</h1>
+<h1>Java GUI</h1>
