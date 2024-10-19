@@ -522,3 +522,28 @@ here throws is always neededto catch the custom exceptions
 
 ![image](https://github.com/user-attachments/assets/ddc0d715-5585-44e8-b258-60f03868e1b7)
 
+<h1>multithreading</h1>
+
+![image](https://github.com/user-attachments/assets/28b6bf70-9ecf-4443-9032-a6cb72783cc3)
+
+![image](https://github.com/user-attachments/assets/d8459fb2-e278-4448-bd23-c730df986950)
+
+![image](https://github.com/user-attachments/assets/17a57c4e-8a08-483f-bef3-c2ec6553421d)
+
+![image](https://github.com/user-attachments/assets/844158bc-16a3-4b14-8aa7-cac74a33615a)
+
+![image](https://github.com/user-attachments/assets/899e9fd6-c640-4b28-a403-07c5d4e38103)
+
+![image](https://github.com/user-attachments/assets/362068aa-4573-4a50-8aad-70d6ede47d74)
+
+![image](https://github.com/user-attachments/assets/0610799e-87ed-4f5c-840f-c251d52eff2e)
+
+![image](https://github.com/user-attachments/assets/293da5ee-ea75-4502-bd79-bb5aa859b1f6)
+
+![image](https://github.com/user-attachments/assets/b88441a5-ab4b-4392-a49c-a5011ebeb831)
+
+![image](https://github.com/user-attachments/assets/806c40bf-d6f7-44bf-8270-f943bcbc4712)
+
+![image](https://github.com/user-attachments/assets/85193e42-8edf-4b2a-b838-6fe988670bcd)
+
+![image](https://github.com/user-attachments/assets/72e2468c-3783-495e-a8d6-51cf877af136)
