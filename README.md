@@ -490,3 +490,28 @@ it is different from arrayList as-
 ![image](https://github.com/user-attachments/assets/43a82e49-b1d4-4138-a470-5297e95ec764)
 
 ![image](https://github.com/user-attachments/assets/8c386048-febb-4f4e-a81e-b7ca7c308128)
+
+
+<h1>Java errors and exception handling</h1>
+
+![image](https://github.com/user-attachments/assets/cea990c3-3ee7-45ba-9066-20efb549bcbf)
+
+![image](https://github.com/user-attachments/assets/2137a63a-fcbb-4c01-83c0-b70de94e1566)
+
+![image](https://github.com/user-attachments/assets/c1fa7ac9-fdfa-48ad-98a2-9563c0ed1105)
+
+![image](https://github.com/user-attachments/assets/9fd27d60-7685-48b7-99ac-ee6d03faf36c)
+
+![image](https://github.com/user-attachments/assets/43c8d1c2-88ae-4e77-9f1e-d118ab16d42e)
+
+<h2>throws keyword</h2>
+
+![image](https://github.com/user-attachments/assets/a97e4034-a046-4bd2-ac83-30baa4cea73e)
+
+![image](https://github.com/user-attachments/assets/34b4846b-afee-45be-9288-3384b66ad99f)
+
+<h2>custom exception in java</h2>
+
+![image](https://github.com/user-attachments/assets/58f39a57-2e83-45c0-9c59-a51d6432edc9)
+
+here throws is always neededto catch the custom exceptions
