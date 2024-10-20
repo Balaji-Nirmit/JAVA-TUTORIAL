@@ -555,6 +555,30 @@ here throws is always neededto catch the custom exceptions
 
 ![image](https://github.com/user-attachments/assets/6080dbd7-97b0-43e4-abd1-747961dbc74e)
 
+![image](https://github.com/user-attachments/assets/755e2e30-2a5a-4b5a-a89f-ecb55ec21d24)
+
+![image](https://github.com/user-attachments/assets/da379091-457e-49d7-bf9e-42d4754861e1)
+
+![image](https://github.com/user-attachments/assets/496a192b-005f-43fe-8e60-0237987e7c08)
+
+![image](https://github.com/user-attachments/assets/bee9d3ff-da39-444e-ac1e-5af15b2740cf)
+
+ we need to synchronize it so that first produce methods run and then only consume method .
+
+![image](https://github.com/user-attachments/assets/4fe836e5-b59a-4bf9-8cc7-0ce06c46f42f)
+
+![image](https://github.com/user-attachments/assets/7e2e2432-2cd4-4b94-8294-764fcbe08f50)
+
+![image](https://github.com/user-attachments/assets/4ad8af83-d792-442a-bbde-04c5a8cc1020)
+
+![image](https://github.com/user-attachments/assets/8eaa1666-ff47-407d-b8e9-6f76e462fe9c)
+
+![image](https://github.com/user-attachments/assets/49eb563c-257f-4e3f-a69e-29100c7bdaca)
+
+![image](https://github.com/user-attachments/assets/e90e33cb-0c84-491a-929c-ef0f137adda6)
+
+![image](https://github.com/user-attachments/assets/7756e522-d05b-4227-9274-34707fa1689a)
+
 
 
 <h1>Input/Output Serialization and Object Serialization</h1>
