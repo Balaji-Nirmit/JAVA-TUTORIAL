@@ -549,6 +549,14 @@ here throws is always neededto catch the custom exceptions
 
 ![image](https://github.com/user-attachments/assets/72e2468c-3783-495e-a8d6-51cf877af136)
 
+![image](https://github.com/user-attachments/assets/b48d8c47-d869-4b4b-8388-6fbc28ccc8bc)
+
+![image](https://github.com/user-attachments/assets/3afc8e71-b9cc-4460-857f-dac6b5c847f7)
+
+![image](https://github.com/user-attachments/assets/6080dbd7-97b0-43e4-abd1-747961dbc74e)
+
+
+
 <h1>Input/Output Serialization and Object Serialization</h1>
 <h1>Java Beans</h1>
 <h1>Java GUI</h1>
