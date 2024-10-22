@@ -493,6 +493,20 @@ it is different from arrayList as-
 
 <h1>HashMaps</h1>
 
+![image](https://github.com/user-attachments/assets/83e6c6c9-26cf-4fe2-8c07-77d8ca69b14d)
+
+![image](https://github.com/user-attachments/assets/71a42444-1ab3-4d31-b18b-023e1f76e09f)
+
+![image](https://github.com/user-attachments/assets/a160a943-5e17-498f-95f5-8be9f9188c38)
+
+![image](https://github.com/user-attachments/assets/ba5a43c9-ff71-4bd2-8058-27e690456c61)
+
+![image](https://github.com/user-attachments/assets/539cbaeb-9437-4846-99b7-c1031983221b)
+
+![image](https://github.com/user-attachments/assets/93c83e5a-c639-487e-a77b-773cb376ce70)
+
+
+
 <h1>Java errors and exception handling</h1>
 
 ![image](https://github.com/user-attachments/assets/cea990c3-3ee7-45ba-9066-20efb549bcbf)
