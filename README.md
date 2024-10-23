@@ -596,5 +596,17 @@ here throws is always neededto catch the custom exceptions
 
 
 <h1>Input/Output Serialization and Object Serialization</h1>
+
+![image](https://github.com/user-attachments/assets/b486b7be-dce1-403c-b3a9-fd588084236a)
+
+![image](https://github.com/user-attachments/assets/dfd72e5e-7ed1-453a-b5e3-8d9deeeb8604)
+
+![image](https://github.com/user-attachments/assets/642b2bc3-5ed6-4c93-9c01-1a5472bf019f)
+
+![image](https://github.com/user-attachments/assets/9d29bde5-c69a-460a-87b3-0834d8598c5c)
+
+
+
+
 <h1>Java Beans</h1>
 <h1>Java GUI</h1>
