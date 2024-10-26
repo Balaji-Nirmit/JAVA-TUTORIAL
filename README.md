@@ -605,7 +605,21 @@ here throws is always neededto catch the custom exceptions
 
 ![image](https://github.com/user-attachments/assets/9d29bde5-c69a-460a-87b3-0834d8598c5c)
 
+![image](https://github.com/user-attachments/assets/78cf5e88-e6ff-4fe0-97cb-68065176032d)
 
+![image](https://github.com/user-attachments/assets/788c099c-a675-47ba-80a9-46c6b4feaabe)
+
+![image](https://github.com/user-attachments/assets/e44cb6f4-245d-42fa-8fd9-c12099372605)
+
+![image](https://github.com/user-attachments/assets/1d260c16-bedb-4ad8-8dbe-b42688146979)
+
+![image](https://github.com/user-attachments/assets/4b94ffa5-f522-4605-8ec6-96ca7baceb3a)
+
+![image](https://github.com/user-attachments/assets/d7f8e656-2d38-46f7-a437-2b6ed5c0bff3)
+
+![image](https://github.com/user-attachments/assets/0016d640-cd3d-4340-9c66-dc5bdc04fba6)
+
+![image](https://github.com/user-attachments/assets/daaff789-eb9b-495e-959a-3d015722551e)
 
 
 <h1>Java Beans</h1>
