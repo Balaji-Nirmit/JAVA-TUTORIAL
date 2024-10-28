@@ -632,6 +632,10 @@ here throws is always neededto catch the custom exceptions
 
 ![image](https://github.com/user-attachments/assets/38a96c67-641e-45b8-a79f-0e0b3b5775b4)
 
+![image](https://github.com/user-attachments/assets/f79ca04e-1165-4f64-a787-dbd35079f7e4)
+
+![image](https://github.com/user-attachments/assets/b99b6d6a-6eb7-4c75-872b-03b11d97db11)
+
 
 
 <h1>Java GUI</h1>
