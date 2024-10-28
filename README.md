@@ -623,4 +623,15 @@ here throws is always neededto catch the custom exceptions
 
 
 <h1>Java Beans</h1>
+
+![image](https://github.com/user-attachments/assets/ea24e40d-29b5-4901-a70f-78f667b9c83c)
+
+![image](https://github.com/user-attachments/assets/63ffa7a1-049c-40e9-a404-b814d255e245)
+
+![image](https://github.com/user-attachments/assets/27befd52-9f91-4aeb-9988-40f86aed4e67)
+
+![image](https://github.com/user-attachments/assets/38a96c67-641e-45b8-a79f-0e0b3b5775b4)
+
+
+
 <h1>Java GUI</h1>
