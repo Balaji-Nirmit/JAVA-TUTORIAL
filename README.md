@@ -639,3 +639,37 @@ here throws is always neededto catch the custom exceptions
 
 
 <h1>Java GUI</h1>
+
+![image](https://github.com/user-attachments/assets/936827a7-8518-4784-a29f-a77355618376)
+
+![image](https://github.com/user-attachments/assets/096a7d27-8129-489c-b799-d96ae64b765d)
+
+![image](https://github.com/user-attachments/assets/1e1731c2-709b-47d6-96ff-a4fb76fd4e28)
+
+<h1>Java Foundation Class (JFC)</h1>
+
+![image](https://github.com/user-attachments/assets/547c49d8-ab5c-4a7b-9a1c-77c579aa620c)
+
+![image](https://github.com/user-attachments/assets/40d9c32e-64b6-43a1-b062-22a9afa6b89a)
+
+![image](https://github.com/user-attachments/assets/4c043b4f-2db0-4176-8bd5-1ba7d5d518e4)
+
+![image](https://github.com/user-attachments/assets/f93c10e8-f062-4b1d-941c-a3331b5dbc4d)
+
+<h1>Abstract Window Toolkit(AWT)</h1>
+
+![image](https://github.com/user-attachments/assets/4ddcb31c-0b34-4ca0-a115-7480507148a4)
+
+![image](https://github.com/user-attachments/assets/57a4ef28-dfb2-4a8a-9fc1-b21f11e59cfb)
+
+![image](https://github.com/user-attachments/assets/621df2ba-785e-4108-a37d-584590c04e23)
+
+<H1>difference between AWT and JFC</H1>
+
+![image](https://github.com/user-attachments/assets/819dd015-2ca8-4c6f-b2d1-a9608c73f50a)
+
+![image](https://github.com/user-attachments/assets/5ad7ca4a-175f-4ec4-bc24-01e0eb69314e)
+
+<H1>JFC architecture</H1>
+
+![image](https://github.com/user-attachments/assets/311207a0-feba-4519-b40f-60f693e33152)
