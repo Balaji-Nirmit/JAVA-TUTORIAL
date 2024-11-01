@@ -673,3 +673,5 @@ here throws is always neededto catch the custom exceptions
 <H1>JFC architecture</H1>
 
 ![image](https://github.com/user-attachments/assets/311207a0-feba-4519-b40f-60f693e33152)
+
+![image](https://github.com/user-attachments/assets/72821aae-3f85-47fd-a7b5-8f3172300906)
