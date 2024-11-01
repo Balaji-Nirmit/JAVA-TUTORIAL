@@ -675,3 +675,9 @@ here throws is always neededto catch the custom exceptions
 ![image](https://github.com/user-attachments/assets/311207a0-feba-4519-b40f-60f693e33152)
 
 ![image](https://github.com/user-attachments/assets/72821aae-3f85-47fd-a7b5-8f3172300906)
+
+<h3>Action/event handler in java</h3>
+
+![image](https://github.com/user-attachments/assets/417ae76c-fb45-43ec-8488-bc198d2d498c)
+
+action listener interface is found in java.awt.event  package which has only one method actionPerformed() which is overridden in the code.
