@@ -686,3 +686,8 @@ action listener interface is found in java.awt.event  package which has only one
 <h1>Important Codes and Methods</h1>
 
 ![image](https://github.com/user-attachments/assets/a7e614f4-bad1-42d1-a217-8784e4bd5c56)
+
+![image](https://github.com/user-attachments/assets/2d1817de-c46e-4015-9d3a-9e9330d916c3)
+
+this is for checking specific characters in string.
+
